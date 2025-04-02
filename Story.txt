@@ -1,8 +1,8 @@
 WRITTEN BY: Craciunoiu Denis Croitor Razvan-David Danciu Alex-Teodor Daescu Ovidiu-Darius Dregan George Drumea Calin-Matei 
 
-During a hot summer in remote Cuca Macaii, six friends decided to go to a lonely cabin in the woods for relaxation. As they arrived there, they realize the 
+During a hot summer in remote Cuca Macaii, three friends decided to go to a lonely cabin in the woods for relaxation. As they arrived there, they realize the 
 owner left them a list of chores to do before they can kick back. Choose your character:
-1. Usher
+1. Usher: go to line 52
 2. Idk
 3. Clork(go to line 9)
 
@@ -48,3 +48,40 @@ realm, each facing their own mystical trial. Determined, he grips the brush tigh
 With renewed purpose, Clork steps forward, knowing he must find his friends and uncover the true reason they were brought here. As he walks, the ground beneath him ripples like water, 
 and whispers fill the air, speaking of forgotten legends and ancient magic. The cabin owner hadn’t been playing a prank—this had all been planned. His summer getaway was no ordinary 
 vacation; it was a test of courage, wit, and destiny. And Clork? He was just getting started.
+
+Usher reads his list of chores and picks one to do first. They all seem as easy as one another:
+- sweep the patio: go to line 16
+- clean the backyard toilet
+- wipe the windows
+- collect wood for the campfire
+
+
+Sweep the patio: The cabin has a small patio, and it takes a short time to sweep, but it can be a bit tricky. Usher takes the sweeper from the kitchen and goes
+outside to the patio.There he sees a piece of medium-rare steak, that looks appetizing:
+    -eat the steak(go to line 22);
+    -leave it there(go to line 24);
+    -throw it away(go to line 29).
+
+Eat the steak: The steak was poisonous and Usher dies.
+
+Leave it there: The steak looks suspicious and Usher leaves it there. Usher then continues to sweep the patio, trying to not think about that steak. A time goes 
+by and Usher finishes sweeping and looks again at the steak:
+    -eat the steak(go to line 22);
+    -throw it away(go to line 32).
+
+Throw it away: The steak looks suspicious and Usher throws it away. Usher then continues to sweep thinking about that ohter chore that he has. WHO IN THEIR RIGHT
+MIND STILL HAS A TOILET IN THE BACKYARD, WHAT IS IT 1950?!? After he finishes sweeping he goes to clean the toilet(go to line 35).
+
+Thorw it away: The steak looks suspicious and Usher throws it away. 'WHO IN THEIR RIGHT MIND STILL HAS A TOILET IN THE BACKYARD, WHAT IS IT 1950?!?' Usher thinks
+ After that he goes to the backyard to complete the other chore (go to line 35).
+
+Clean the backyard toilet: The toilet was far from the cabin, and the walk took about 2 minutes. On the way there he thinks, 'Why did i accept this one?'. When 
+he got closer to the toilet, he thought he saw a figure running behind the trees:
+    -it's just in his head(go to line 40);
+    -investigate.
+
+It's just in his head: Usher tries to dismiss the figure, saying that is just an imagination but cannot calm down because he knows he is alone in this part of the
+property and the others will not hear it if he screams. He enters the toilet in order to clean it and hears a frightening sound coming from the woods.Die from heart attack!
+
+Investigate: Go in the woods and the figure attacks Usher and Usher dies.
+

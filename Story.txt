@@ -6,6 +6,54 @@ owner left them a list of chores to do before they can kick back. Choose your ch
 2. Idk
 3. Clork
 
+Idk enters the house and decides to start with his chores immediately.Your  set of chores involves:
+    - starting the fire in the Soba
+    - going to the basement to retrieve an acient wine (you may not be alone in the basement)
+    - chop some wood to keep the fire lit in the Soba
+    - make some sarmale
+
+
+You chose to go to the retrieve the ancient wine of the owner, because nothing works better with sarmale than wine
+(except sour cream). As he said , you may not be alone there. But since you are a brave one, you decide to go down the stairs
+. As you enter the pitch black of the basement, you start to hear some strange noises sounding like scratches. 
+You have 2 options now: 
+    - go back upstairs and never return
+    - go back upstairs and pick a flashlight to check what s happening there
+
+
+You chose to go back upstairs and never return. Good job! All of your friends resent you and the owner slapped you when he returned
+for your check out.
+
+You chose to pick a flashlight and explore. As you enter the basement again, you feel more curious about what s happening down there
+You turn on your flashlight and see that the only things in the basement are some barrels with tuica and a very dusty door
+that has "Wine" written on it. As you approach the door you start hearing the strange sounds again. There is nop going back 
+this time so you open the door. Surprised 
+=======
+You chose to start the fire, did you chop wood?
+
+-Yes
+
+-No
+
+You decided to cut wood, while searching for the axe you notice its not where the owner left it it was on the ground next to a puddle of deep reddish dark
+liquid, the urge to step back is strong, what do you do?
+
+-Step Back
+
+-Continue
+
+You accept to go back and never look back when you arive you call the police and lock yourself in the car. The police arrives and they tell you they found 
+traces of blood leading to the car. One cop tells you to get out of the car and put your hands up, while the other looks shocked, you dont understand but 
+comply. After they handcuff you and lift you of the ground you notice the bloodstain on the ground, left by your clothes. You dont understand why you are
+covered in blood but the cops find the axe in the car stained with your friends blood that was left where the wood was.
+
+
+You ignore the overwhelming feeling you have and go check what was going on. Luckly it was just a bottle of wine that had spilled over you get the axe and
+start chopping some wood. You find it wierd how you are sweating so much. after you cut the wood you slowly carry it back inside and try to start the fire.
+
+
+As you start the fire you feel a wierd smell from the chimney, you realize that you didnt chop wood and whatever you were burning was not what you tought.
+=======
 Usher reads his list of chores and picks one to do first. They all seem as easy as one another:
 - sweep the patio: go to line 16
 - clean the backyard toilet

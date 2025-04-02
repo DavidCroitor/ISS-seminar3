@@ -2,9 +2,52 @@ WRITTEN BY: Craciunoiu Denis Croitor Razvan-David Danciu Alex-Teodor Daescu Ovid
 
 During a hot summer in remote Cuca Macaii, three friends decided to go to a lonely cabin in the woods for relaxation. As they arrived there, they realize the 
 owner left them a list of chores to do before they can kick back. Choose your character:
-1. Usher: go to line 9
+1. Usher: go to line 52
 2. Idk
-3. Clork
+3. Clork(go to line 9)
+
+Clorck picked up the chores he was assigned and realizes that the chores he was assigned are not some usual tasks related to reality. 
+For the first chore he was assigned he had to go in the attic and pick up some elf dandruff and the other task was to brush the unicorn in the garden.
+Choose the chore to do:
+1. Pick up elf dandruff(go to line 16)
+2. Brush the unicord(go to line 26)
+
+line 16:
+1. Pick up elf dandruff
+Clorck went to the attic and found a small box with a label on it that said "Elf Dandruff". 
+He opened the box and found a small bag with a white powder inside.
+He took the bag and went back to the living room. As he was walking back, 
+he heard a strange noise coming from the kitchen.
+Choose what to do:
+1. Go to the kitchen (go to line 45)
+2. Ignore the noise and go back to the living room(go to line 46)
+
+Clork goes to the garden very confused and angry because he thinks the owner of the cabin makes fun of him and his vacation. He just wanted to enjoy a grill and a beer with
+his friends, but now he is looking for something nonexistent. While he was lost in a sea of negative thougts he hears some banging from a box in the middle of the grass.
+He opens the box and a magic key flies out of it. He falls on the ground out of shock and the key flies in his hand. He looks at the shimmering golden key, which pulses 
+faintly with an otherworldly glow. His heart pounds in his chest as he grips the key tighter, unsure whether to be terrified or intrigued. The warm summer air suddenly 
+feels heavier, charged with an eerie energy.
+
+Clork stands up, brushing off the dirt from his jeans, and glances around. His friends are nowhere to be seen. The distant sound of the wind rustling through the trees 
+is the only thing accompanying him. His logical mind screams at him that this is all a ridiculous prank, but his gut tells him otherwise. He hesitentaly walks towards the cabin
+in the corner of the garden, which has a shining golden lock on its door. He shakinly inserts the key in the look and the key twists magically opening the look. Slowly with many
+thoughts rushing through his mind, Clork opens the door. And there it is, a mighty colorful unicorn. His corn was made out of shining diamond, teeth made out of silver, and hoofs
+out of fine gold.
+
+"Don't just stand there! Brush my fur!" Says the unicorn. Clork stares, mouth agape, as the unicorn flicks its tail impatiently. "Well?" it snorts. "I've been waiting for centuries!" 
+His brain struggles to catch up with the absurdity of the situation, but something about the creature’s shimmering presence makes him comply. Gripping the ornate brush that 
+had mysteriously appeared in his hand, he steps forward and begins stroking the unicorn’s radiant fur. With each stroke, golden sparks dance in the air, and the warm, 
+heavy atmosphere around him lightens. The unicorn lets out a pleased sigh, and suddenly, the walls of the small cabin dissolve into a swirling vortex of light. 
+Clork feels his feet leave the ground as he’s pulled into the unknown.
+
+When the light fades, Clork finds himself standing in an ethereal meadow where the sky shimmers in hues of violet and gold. The unicorn, now even more majestic, 
+towers before him. "You have unlocked the first secret of the Enchanted Realm," it declares. "Few are chosen, and fewer still are worthy." Before Clork can protest, 
+the unicorn nudges him forward, and he notices six glowing symbols hovering in the air—each representing one of his friends. He realizes they are scattered across this strange 
+realm, each facing their own mystical trial. Determined, he grips the brush tightly, sensing that it holds more power than he understands.
+
+With renewed purpose, Clork steps forward, knowing he must find his friends and uncover the true reason they were brought here. As he walks, the ground beneath him ripples like water, 
+and whispers fill the air, speaking of forgotten legends and ancient magic. The cabin owner hadn’t been playing a prank—this had all been planned. His summer getaway was no ordinary 
+vacation; it was a test of courage, wit, and destiny. And Clork? He was just getting started.
 
 Usher reads his list of chores and picks one to do first. They all seem as easy as one another:
 - sweep the patio: go to line 16
@@ -41,3 +84,4 @@ It's just in his head: Usher tries to dismiss the figure, saying that is just an
 property and the others will not hear it if he screams. He enters the toilet in order to clean it and hears a frightening sound coming from the woods.Die from heart attack!
 
 Investigate: Go in the woods and the figure attacks Usher and Usher dies.
+

@@ -12,3 +12,24 @@ Usher reads his list of chores and picks one to do first. They all seem as easy 
 - wipe the windows
 - collect wood for the campfire
 
+Collect wood for the campfire: Usher puts on some work boots he found in the shed and with his purpose in mind, sets out in the nearby woods to collect 
+branches, logs and the like. The woods are chilly and quiet but Usher isn't one to scare away so easily. Usher still hasn't found any suitable wood but he 
+spots a small river with a wood bridge going over it. Do you: 
+- cross the bridge? go to line 23
+- try to go around? : go to line 21 
+
+After seemingly walking for an eternity with no end in sight, an evil forest spirit jumps from behind the trees and kills you. (go back to line 9 to retry)
+
+After crossing the humid wood bridge and walking a bit further, Usher finds himself in a nice open field with some conveniently placed dry wood logs near 
+a big rock. Do you:
+-pick up as many logs you as you can carry and return to the cabin? (go to line 31)
+-pick up only one log and collect some branches on your way back? (go to line 33)
+-become content with the idea of a small campfire and return only with a few branches? (go to line 29)
+
+You only picked up a few branches and will leave your friends dissatisfied with the campfire tonight. You didn't die tho. That's good. (go to line 35)
+
+God is sickened by your greed and smites you down. You died, sinner. (go back to line 9 to retry)
+
+You pick up the single log and nothing happens. You got: A Nice Big Log! (go to line 35)
+
+Congrats! Task done. Return to line 9 to pick another.

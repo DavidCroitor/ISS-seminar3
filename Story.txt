@@ -6,4 +6,8 @@ owner left them a list of chores to do before they can kick back. Choose your ch
 2. Idk
 3. Clork
 
-You start wandering what you should start with, suddenly a wierd noise comes from the basement.
+Idk enters the house and decides to start with his chores immediately.Your  set of chores involves:
+    - starting the fire in the Soba
+    - going to the basement to retrieve an acient wine (you may not be alone in the basement)
+    - chop some wood to keep the fire lit in the Soba
+    - make some sarmale

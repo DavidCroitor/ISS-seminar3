@@ -1,8 +1,14 @@
 WRITTEN BY: Craciunoiu Denis Croitor Razvan-David Danciu Alex-Teodor Daescu Ovidiu-Darius Dregan George Drumea Calin-Matei 
 
-During a hot summer in remote Cuca Macaii, six friends decided to go to a lonely cabin in the woods for relaxation. As they arrived there, they realize the 
+During a hot summer in remote Cuca Macaii, three friends decided to go to a lonely cabin in the woods for relaxation. As they arrived there, they realize the 
 owner left them a list of chores to do before they can kick back. Choose your character:
-1. Usher
+1. Usher: go to line 9
 2. Idk
 3. Clork
+
+Usher reads his list of chores and picks one to do first. They all seem as easy as one another:
+- sweep the patio
+- clean the backyard toilet
+- wipe the windows
+- collect wood for the campfire
 

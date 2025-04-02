@@ -1,1 +1,8 @@
 WRITTEN BY: Dregan George Drumea Calin-Matei Croitor Razvan-David Danciu Alex-Teodor
+
+During a hot summer in remote Cuca Macaii, six friends decided to go to a lonely cabin in the woods for relaxation. As they arrived there, they realize the 
+owner left them a list of chores to do before they can kick back. Choose your character:
+1. Usher
+2. Idk
+3. Clork
+

@@ -9,5 +9,19 @@ owner left them a list of chores to do before they can kick back. Choose your ch
 Clorck picked up the chores he was assigned and realizes that the chores he was assigned are not some usual tasks related to reality. 
 For the first chore he was assigned he had to go in the attic and pick up some elf dandruff and the other task was to brush the unicorn in the garden.
 Choose the chore to do:
-1. Pick up elf dandruff
+1. Pick up elf dandruff(go to line 16)
 2. Brush the unicord
+
+line 16:
+1. Pick up elf dandruff
+Clorck went to the attic and found a small box with a label on it that said "Elf Dandruff". 
+He opened the box and found a small bag with a white powder inside.
+He took the bag and went back to the living room. As he was walking back, 
+he heard a strange noise coming from the kitchen.
+Choose what to do:
+1. Go to the kitchen (go to line 45)
+2. Ignore the noise and go back to the living room(go to line 46)
+
+
+
+

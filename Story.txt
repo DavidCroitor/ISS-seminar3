@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-WRITTEN BY: Ovidiu Daescu
-=======
 WRITTEN BY: Dregan George
->>>>>>> d1f8cb3034eff386ea0ef0144cff974b14540157

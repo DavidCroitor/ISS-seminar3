@@ -9,8 +9,18 @@ owner left them a list of chores to do before they can kick back. Choose your ch
 Clorck picked up the chores he was assigned and realizes that the chores he was assigned are not some usual tasks related to reality. 
 For the first chore he was assigned he had to go in the attic and pick up some elf dandruff and the other task was to brush the unicorn in the garden.
 Choose the chore to do:
+1. Pick up elf dandruff(go to line 16)
+2. Brush the unicord(go to line 26)
+
+line 16:
 1. Pick up elf dandruff
-2. Brush the unicorn(Go to line 15)
+Clorck went to the attic and found a small box with a label on it that said "Elf Dandruff". 
+He opened the box and found a small bag with a white powder inside.
+He took the bag and went back to the living room. As he was walking back, 
+he heard a strange noise coming from the kitchen.
+Choose what to do:
+1. Go to the kitchen (go to line 45)
+2. Ignore the noise and go back to the living room(go to line 46)
 
 Clork goes to the garden very confused and angry because he thinks the owner of the cabin makes fun of him and his vacation. He just wanted to enjoy a grill and a beer with
 his friends, but now he is looking for something nonexistent. While he was lost in a sea of negative thougts he hears some banging from a box in the middle of the grass.
@@ -25,16 +35,16 @@ thoughts rushing through his mind, Clork opens the door. And there it is, a migh
 out of fine gold.
 
 "Don't just stand there! Brush my fur!" Says the unicorn. Clork stares, mouth agape, as the unicorn flicks its tail impatiently. "Well?" it snorts. "I've been waiting for centuries!" 
-His brain struggles to catch up with the absurdity of the situation, but something about the creature’s shimmering presence makes him comply. Gripping the ornate brush that 
-had mysteriously appeared in his hand, he steps forward and begins stroking the unicorn’s radiant fur. With each stroke, golden sparks dance in the air, and the warm, 
+His brain struggles to catch up with the absurdity of the situation, but something about the creatureâ€™s shimmering presence makes him comply. Gripping the ornate brush that 
+had mysteriously appeared in his hand, he steps forward and begins stroking the unicornâ€™s radiant fur. With each stroke, golden sparks dance in the air, and the warm, 
 heavy atmosphere around him lightens. The unicorn lets out a pleased sigh, and suddenly, the walls of the small cabin dissolve into a swirling vortex of light. 
-Clork feels his feet leave the ground as he’s pulled into the unknown.
+Clork feels his feet leave the ground as heâ€™s pulled into the unknown.
 
 When the light fades, Clork finds himself standing in an ethereal meadow where the sky shimmers in hues of violet and gold. The unicorn, now even more majestic, 
 towers before him. "You have unlocked the first secret of the Enchanted Realm," it declares. "Few are chosen, and fewer still are worthy." Before Clork can protest, 
-the unicorn nudges him forward, and he notices six glowing symbols hovering in the air—each representing one of his friends. He realizes they are scattered across this strange 
+the unicorn nudges him forward, and he notices six glowing symbols hovering in the airâ€”each representing one of his friends. He realizes they are scattered across this strange 
 realm, each facing their own mystical trial. Determined, he grips the brush tightly, sensing that it holds more power than he understands.
 
 With renewed purpose, Clork steps forward, knowing he must find his friends and uncover the true reason they were brought here. As he walks, the ground beneath him ripples like water, 
-and whispers fill the air, speaking of forgotten legends and ancient magic. The cabin owner hadn’t been playing a prank—this had all been planned. His summer getaway was no ordinary 
+and whispers fill the air, speaking of forgotten legends and ancient magic. The cabin owner hadnâ€™t been playing a prankâ€”this had all been planned. His summer getaway was no ordinary 
 vacation; it was a test of courage, wit, and destiny. And Clork? He was just getting started.

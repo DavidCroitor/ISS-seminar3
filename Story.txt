@@ -4,5 +4,10 @@ During a hot summer in remote Cuca Macaii, six friends decided to go to a lonely
 owner left them a list of chores to do before they can kick back. Choose your character:
 1. Usher
 2. Idk
-3. Clork
+3. Clork(go to line 9)
 
+Clorck picked up the chores he was assigned and realizes that the chores he was assigned are not some usual tasks related to reality. 
+For the first chore he was assigned he had to go in the attic and pick up some elf dandruff and the other task was to brush the unicorn in the garden.
+Choose the chore to do:
+1. Pick up elf dandruff
+2. Brush the unicord
